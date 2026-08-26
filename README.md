@@ -31,14 +31,16 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [Restaurant-web4](https://github.com/Oceane005/Restaurant-web4) | Restaurant site — multi-page, custom components, 404 handling | PHP · CSS · JS |
+| [Bestiere](https://github.com/NicNeko/Bestiere) | CRUD bestiary of mythical creatures — search, image uploads, SQLite | PHP · SQLite |
+| [BlyDexArchive](https://github.com/NicNeko/BlyDexArchive) | Self-hosted render gallery — JWT auth, admin panel, Docker deploy | React · TypeScript · Express |
 <!-- Add more web projects as rows above -->
 
 **Jeux**
 
-<!-- TODO: these are private right now. Make one public and add it here, e.g.:
-| [repo-name](https://github.com/NicNeko/repo-name) | one-line description | Stack |
--->
-_Nothing public yet._
+| Project | What it is | Stack |
+|---|---|---|
+| [SyntheseJeu3](https://github.com/NicNeko/SyntheseJeu3) | Unity scripts for a rat platformer — movement, camera follow, level hatches | C# · Unity |
+| [NicNekoAdminStuff](https://github.com/NicNeko/NicNekoAdminStuff) | Vintage Story server mod — per-player flight permissions with config and logging | C# · Harmony |
 
 **Other**
 
