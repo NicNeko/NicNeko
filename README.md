@@ -24,7 +24,7 @@
 
 ---
 
-### Coursework
+### Projects
 
 **Web**
 
