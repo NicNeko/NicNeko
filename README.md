@@ -30,7 +30,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Restaurant-web4](https://github.com/Oceane005/Restaurant-web4) | Restaurant site — multi-page, custom components, 404 handling | PHP · CSS · JS |
+| [Restaurant-web4](https://github.com/Oceane005/Restaurant-web4) | Restaurant site built with [@Oceane005](https://github.com/Oceane005) — I built the admin panel, auth, and project restructure | PHP · SQLite · JS |
 | [Bestiere](https://github.com/NicNeko/Bestiere) | CRUD bestiary of mythical creatures — search, image uploads, SQLite | PHP · SQLite |
 | [BlyDexArchive](https://github.com/NicNeko/BlyDexArchive) | Self-hosted render gallery — JWT auth, admin panel, Docker deploy | React · TypeScript · Express |
 <!-- Add more web projects as rows above -->
