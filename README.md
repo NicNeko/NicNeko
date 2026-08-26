@@ -38,6 +38,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [SyntheseJeu3](https://github.com/NicNeko/SyntheseJeu3) | Unity scripts for a rat platformer — movement, camera follow, level hatches | C# · Unity |
+| [Jeu4Synthese](https://github.com/NicNeko/Jeu4Synthese) | Unity scripts for a 2D platformer with generated levels — rooms, enemies, traps, upgrades and a local leaderboard | C# · Unity |
 | [NicNekoAdminStuff](https://github.com/NicNeko/NicNekoAdminStuff) | Vintage Story server mod — per-player flight permissions with config and logging | C# · Harmony |
 
 **Other**
