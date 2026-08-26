@@ -50,14 +50,20 @@ _Nothing public yet._
 
 ### Stats
 
+<!--
+  These SVGs are committed in profile/ and regenerated daily by
+  .github/workflows/update-cards.yml. Nothing is fetched from a third-party
+  site at page load, so no outage can break them.
+-->
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NicNeko&show_icons=true&hide_border=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=NicNeko&show_icons=true&hide_border=true&theme=default" alt="NicNeko's GitHub stats" height="160">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img src="./profile/stats-light.svg" alt="GitHub stats" height="160">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NicNeko&layout=compact&hide_border=true&hide=tcl&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicNeko&layout=compact&hide_border=true&hide=tcl&theme=default" alt="Top languages" height="160">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img src="./profile/top-langs-light.svg" alt="Top languages" height="160">
   </picture>
 </p>
 
