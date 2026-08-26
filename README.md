@@ -72,6 +72,6 @@ _Nothing public yet._
 ### Elsewhere
 
 <!-- TODO: fill in or delete the lines you don't want. -->
-- Website — <!-- https://example.com -->
+- Website — [BlyDex Gallery](https://2059245.tim-cstj.ca/BlyDex/)
 - Discord — <!-- username -->
 - Mail — <!-- you@example.com -->
